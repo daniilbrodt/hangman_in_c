@@ -1,1 +1,1 @@
-# hangman_in_c
+# Hangman in C

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1575228489 source:c:\users\hp\documents\mark3\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1575228381 c:\users\hp\documents\mark3\functions.h
+
+1575228925 source:c:\users\hp\documents\mark3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+

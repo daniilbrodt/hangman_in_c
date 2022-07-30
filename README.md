@@ -11,9 +11,9 @@ Hangman here is a game where you play a guessing game against computer where a p
 To run compile main.c and functions.c and run it
 ```
 -gcc main.c functions.c -o hangman
-./hangman in Linux
-or hangman in Windows 
 ```
+`./hangman in Linux `
+`hangman in Windows `
 
 
 ![](https://user-images.githubusercontent.com/62448134/181915891-69790b41-baaa-4481-92bd-c1a532316c7a.png)
